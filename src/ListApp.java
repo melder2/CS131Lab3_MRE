@@ -1,4 +1,9 @@
-
+/**
+ * 
+ * @author Michael Elder
+ *	CS131 Lab 3
+ *	Listapp class creates an array list of Strings, Squares, and Points	
+ */
 public class ListApp {
 
 	public static void main(String[] args) {
